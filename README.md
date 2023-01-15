@@ -33,3 +33,5 @@ System.out.println("\nArray with " + x
 
 
 ![image](https://user-images.githubusercontent.com/122004953/212526843-c2378b1b-7cd2-4956-8176-185b74967336.png)
+
+  
